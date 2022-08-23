@@ -5,4 +5,10 @@ public class SimpleProject {
         System.out.print ("Hometask");
 
     }
+    class BaseTest {
+        public static void main(String[] args) {
+            System.out.println("Feature Base Test");
+        }
+    }
 }
+
